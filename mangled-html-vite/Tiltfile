@@ -1,0 +1,5 @@
+local_resource(
+    'vuejs-ui:local',
+    cmd='yarn install',
+    serve_cmd='yarn dev',
+)
